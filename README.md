@@ -1,132 +1,118 @@
-# Hey, I'm Rudraksh 👋
+<div align="center">
 
-<p align="center">
-  <b>Electrical & Computer Engineering Student</b> • Competitive Programmer • Builder
-</p>
+# `rudraksh.exe`
 
-<p align="center">
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
-  <a href="YOUR_CODEFORCES_URL">Codeforces</a> •
-  <a href="YOUR_LEETCODE_URL">LeetCode</a>
-</p>
+### Electrical & Computer Engineering Student
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=building+things+that+sometimes+work;competitive+programming+enjoyer;learning+one+bug+at+a+time;engineering+%2B+code+%2B+curiosity" />
 
-### 🧑‍💻 A little about me
+<br>
 
-I'm an Electrical & Computer Engineering student at **Jamia Millia Islamia, New Delhi**.
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge\&logo=codeforces\&logoColor=white)](YOUR_CODEFORCES_URL)
 
-I like understanding how things work, building stuff, and occasionally spending way too much time figuring out why my code doesn't work.
-
-Currently, I'm focused on:
-
-* 🧠 Data Structures & Algorithms
-* ⚔️ Competitive Programming
-* 💻 Software Development
-* ⚡ Electronics & Computer Engineering
-* 🐧 Linux & Systems
-* 🚀 Building projects that are actually useful
-
-> **Learn → Build → Break → Debug → Repeat.**
+</div>
 
 ---
 
-### ⚙️ Tech I'm working with
+```cpp
+#include <iostream>
 
-**Languages**
+int main() {
 
-`C` `C++` `Python` `JavaScript`
+    std::string name = "Rudraksh";
+    std::string degree = "Electrical & Computer Engineering";
 
-**Tools**
+    std::vector<std::string> currently = {
+        "Competitive Programming",
+        "DSA",
+        "Software Development",
+        "Linux",
+        "Electronics"
+    };
 
-`Git` `GitHub` `Linux` `VS Code`
-
-**Currently Learning**
-
-`DSA` `Competitive Programming` `System Design` `Web Development`
-
----
-
-### 📈 Competitive Programming
-
-Currently grinding algorithms and problem solving.
-
-```text
-Codeforces   →  🔥 Grinding
-LeetCode     →  🧩 Practicing
-DSA          →  🧠 Building the fundamentals
+    std::cout << "still building..." << std::endl;
+}
 ```
 
-My goal is simple:
+### `> whoami`
 
-**Get really good at solving problems, not just memorizing solutions.**
+I'm a B.Tech student at **Jamia Millia Islamia, New Delhi** who enjoys
+turning caffeine into questionable amounts of code.
 
----
-
-### 🚀 Projects
-
-I believe the best way to learn is to build.
-
-I'm currently working on projects around:
-
-* 🖥️ Software & Web Development
-* 🤖 Automation
-* ⚡ Electronics & Embedded Systems
-* 🐧 Linux
-* 🧠 AI / ML
-* 🛠️ Developer Tools
-
-Check out my repositories below — more projects coming as I build them.
+Currently figuring out how **hardware, software and algorithms** fit together.
 
 ---
 
-### 🎓 Education
-
-**B.Tech — Electrical & Computer Engineering**
-Jamia Millia Islamia • New Delhi, India
-
----
-
-### 🌐 Communities & Activities
-
-* Google Developer Student Group
-* IEEE
-* ASME
-* SOAR
-* 🏐 University Volleyball Team
-
----
-
-### 👨‍🏫 Outside of Coding
-
-I also enjoy teaching.
-
-I've taught **Mathematics, Physics, English and Social Science**, and I enjoy turning complicated concepts into things that actually make sense.
-
----
-
-### 📊 GitHub
+### `> tech_stack`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,git,github,linux,vscode" />
+
 </p>
 
 ---
 
-### 📫 Connect with me
+### `> current_mission`
 
-* 💼 LinkedIn → YOUR_LINKEDIN_URL
-* ⚔️ Codeforces → YOUR_CODEFORCES_URL
-* 🧩 LeetCode → YOUR_LEETCODE_URL
-* 🐙 GitHub → https://github.com/YOUR_USERNAME
+```text
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│   [01]  Master DSA                                  │
+│   [02]  Grind Codeforces                            │
+│   [03]  Build real projects                         │
+│   [04]  Learn systems & software                    │
+│   [05]  Explore electronics                         │
+│   [06]  Touch grass occasionally                   │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
 
 ---
 
-<p align="center">
-  <i>Still learning. Still building. Still figuring things out.</i>
-</p>
+### `> github_stats`
 
-<p align="center">
-  <b>Thanks for stopping by! 👋</b>
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="170"/>
+
+</div>
+
+---
+
+### `> activity`
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=github-dark-blue\&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+### `> outside_the_terminal`
+
+```text
+⚡ Electrical & Computer Engineering
+🏐 Volleyball
+🧠 Teaching
+🐧 Linux
+🎧 Music
+☕ Probably debugging something
+```
+
+---
+
+<div align="center">
+
+### `while(alive) { learn(); build(); repeat(); }`
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=58A6FF" />
+
+</div>
