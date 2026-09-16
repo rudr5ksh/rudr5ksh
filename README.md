@@ -1,105 +1,132 @@
 # Hey, I'm Rudraksh 👋
 
-### Electrical & Computer Engineering Student | Competitive Programmer | Builder
+<p align="center">
+  <b>Electrical & Computer Engineering Student</b> • Competitive Programmer • Builder
+</p>
 
-I'm a B.Tech student interested in **software, systems, electronics, and problem solving**.
-
-Currently working on:
-- 💻 Strengthening **DSA & Competitive Programming**
-- 🧠 Practicing on **Codeforces**
-- 🚀 Building projects and learning by actually breaking things
-- ⚡ Exploring the intersection of **Electrical Engineering + Computer Science**
-- 📚 Teaching and helping others with **Math, Physics & Programming**
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
+  <a href="YOUR_CODEFORCES_URL">Codeforces</a> •
+  <a href="YOUR_LEETCODE_URL">LeetCode</a>
+</p>
 
 ---
 
-## 📈 Competitive Programming
+### 🧑‍💻 A little about me
 
-Currently grinding **Data Structures & Algorithms** and Competitive Programming.
+I'm an Electrical & Computer Engineering student at **Jamia Millia Islamia, New Delhi**.
 
-- 🔥 Codeforces: [Profile](YOUR_CODEFORCES_LINK)
-- 🧩 LeetCode: [Profile](YOUR_LEETCODE_LINK)
-- 💡 Interested in algorithms, problem solving & optimization
+I like understanding how things work, building stuff, and occasionally spending way too much time figuring out why my code doesn't work.
 
-> *The goal isn't just to solve problems — it's to learn how to think.*
+Currently, I'm focused on:
 
----
+* 🧠 Data Structures & Algorithms
+* ⚔️ Competitive Programming
+* 💻 Software Development
+* ⚡ Electronics & Computer Engineering
+* 🐧 Linux & Systems
+* 🚀 Building projects that are actually useful
 
-## 🚀 What I'm Building
-
-I like projects that force me to learn something new.
-
-Some areas I'm exploring:
-
-- Software Development
-- Competitive Programming
-- Systems & Linux
-- Electronics & Embedded Systems
-- AI / Machine Learning
-- Automation
-- Developer Tools
-
-More projects coming soon 👀
+> **Learn → Build → Break → Debug → Repeat.**
 
 ---
 
-## 🎓 Education
+### ⚙️ Tech I'm working with
 
-**B.Tech — Electrical & Computer Engineering**  
-Jamia Millia Islamia, New Delhi 🇮🇳
+**Languages**
+
+`C` `C++` `Python` `JavaScript`
+
+**Tools**
+
+`Git` `GitHub` `Linux` `VS Code`
+
+**Currently Learning**
+
+`DSA` `Competitive Programming` `System Design` `Web Development`
 
 ---
 
-## 🌐 Communities & Activities
+### 📈 Competitive Programming
 
-- Google Developer Student Group
-- IEEE
-- ASME
-- SOAR
-- 🏐 Representing my university in Volleyball
+Currently grinding algorithms and problem solving.
+
+```text
+Codeforces   →  🔥 Grinding
+LeetCode     →  🧩 Practicing
+DSA          →  🧠 Building the fundamentals
+```
+
+My goal is simple:
+
+**Get really good at solving problems, not just memorizing solutions.**
 
 ---
 
-## 👨‍🏫 Beyond Coding
+### 🚀 Projects
+
+I believe the best way to learn is to build.
+
+I'm currently working on projects around:
+
+* 🖥️ Software & Web Development
+* 🤖 Automation
+* ⚡ Electronics & Embedded Systems
+* 🐧 Linux
+* 🧠 AI / ML
+* 🛠️ Developer Tools
+
+Check out my repositories below — more projects coming as I build them.
+
+---
+
+### 🎓 Education
+
+**B.Tech — Electrical & Computer Engineering**
+Jamia Millia Islamia • New Delhi, India
+
+---
+
+### 🌐 Communities & Activities
+
+* Google Developer Student Group
+* IEEE
+* ASME
+* SOAR
+* 🏐 University Volleyball Team
+
+---
+
+### 👨‍🏫 Outside of Coding
 
 I also enjoy teaching.
 
-I've taught **Mathematics, Physics, English and Social Science**, and I genuinely enjoy breaking complicated concepts down into something that actually makes sense.
+I've taught **Mathematics, Physics, English and Social Science**, and I enjoy turning complicated concepts into things that actually make sense.
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub
 
-![Rudraksh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 📫 Let's Connect
-
-- 💼 LinkedIn: [Rudraksh](YOUR_LINKEDIN_LINK)
-- 🐙 GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- 📧 Email: YOUR_EMAIL
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
 ---
 
-### 💭 Currently
+### 📫 Connect with me
 
-**Learning → Building → Breaking → Fixing → Repeating**
+* 💼 LinkedIn → YOUR_LINKEDIN_URL
+* ⚔️ Codeforces → YOUR_CODEFORCES_URL
+* 🧩 LeetCode → YOUR_LEETCODE_URL
+* 🐙 GitHub → https://github.com/YOUR_USERNAME
+
+---
+
+<p align="center">
+  <i>Still learning. Still building. Still figuring things out.</i>
+</p>
+
+<p align="center">
+  <b>Thanks for stopping by! 👋</b>
+</p>
